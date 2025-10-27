@@ -13,5 +13,5 @@
                                   gazebo="${gazebo_tag}"
                                   use_ftsensor="true"
                                   tip_slot_pos="2"
-				  finger_slot_pos="5"/>
+				  finger_slot_pos="4"/>
 </robot>
